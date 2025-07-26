@@ -12,6 +12,6 @@ A simple AI Clone project built using Gemini API and basic web development tools
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend (if applicable):** Node.js / Flask / any lightweight server  
+- **Backend:** Node.js  
 - **AI Model:** Google Gemini (via API)  
 
